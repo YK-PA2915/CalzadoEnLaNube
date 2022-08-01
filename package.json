@@ -1,0 +1,26 @@
+{
+  "name": "calzadoenlanube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YK-PA2915/CalzadoEnLaNube.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YK-PA2915/CalzadoEnLaNube/issues"
+  },
+  "homepage": "https://github.com/YK-PA2915/CalzadoEnLaNube#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
